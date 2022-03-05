@@ -131,4 +131,4 @@ Shortcodes は `layouts/shortcodes/` 以下に作ります。ファイル名が�
 
 ## あとがき
 
-Hugo はいいぞ。
+コンテナなので上手いことやれば [dev container](https://code.visualstudio.com/docs/remote/create-dev-container) との相性も良さそうですね。
